@@ -68,7 +68,7 @@ They required a data-driven approach to analyze and optimize their marketing str
 ---
 
 ## 📸 Visuals
-*(Attach screenshots here of Power BI dashboards and charts)*
+![image](https://github.com/kiwa-debug/Data-Analysis-ShopEasy/blob/15868331688c41093d2e5cc08e4316cd2849dc71/page%201.png)
 
 ---
 
