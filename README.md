@@ -78,4 +78,4 @@ They required a data-driven approach to analyze and optimize their marketing str
 
 ## 📫 Contact
 Feel free to connect with me for collaborations or queries:  
-**Kirtish Wankhedkar** | [LinkedIn](https://www.linkedin.com/in/kirtish-wankhedkar/) | [Email](wankhedkarkirtish19.com)
+**Kirtish Wankhedkar** | [LinkedIn](https://www.linkedin.com/in/kirtish-wankhedkar-76336b194/) | [Email](wankhedkarkirtish19.com)
