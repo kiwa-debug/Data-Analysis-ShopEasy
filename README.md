@@ -69,6 +69,10 @@ They required a data-driven approach to analyze and optimize their marketing str
 
 ## 📸 Visuals
 ![image](https://github.com/kiwa-debug/Data-Analysis-ShopEasy/blob/15868331688c41093d2e5cc08e4316cd2849dc71/page%201.png)
+![image](https://github.com/kiwa-debug/Data-Analysis-ShopEasy/blob/8691f3978a1e29cc89ed84bad1b6cc1bb6e6e840/page%202.png)
+![image](https://github.com/kiwa-debug/Data-Analysis-ShopEasy/blob/15868331688c41093d2e5cc08e4316cd2849dc71/page%203.png)
+![image](https://github.com/kiwa-debug/Data-Analysis-ShopEasy/blob/15868331688c41093d2e5cc08e4316cd2849dc71/page%204.png)
+![image](https://github.com/kiwa-debug/Data-Analysis-ShopEasy/blob/15868331688c41093d2e5cc08e4316cd2849dc71/page%205.png)
 
 ---
 
